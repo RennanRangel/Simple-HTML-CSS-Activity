@@ -12,8 +12,6 @@ O objetivo é **aprender a separar conteúdo (HTML) e estilo (CSS)**, aplicando 
 ---
 
 
----
-
 ## HTML
 
 ### Divisão do conteúdo:
